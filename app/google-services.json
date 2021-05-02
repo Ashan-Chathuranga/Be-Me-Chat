@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951276345639",
+    "project_id": "beme-c0f0f",
+    "storage_bucket": "beme-c0f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951276345639:android:4887e8fdfafa0edc417102",
+        "android_client_info": {
+          "package_name": "com.example.bemechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951276345639-6an6cnm4nlakdb9ecg0ejd91s3ero12l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bemechat",
+            "certificate_hash": "59e09404f0fb4f8e73bd60f5b4b3bdfda0d9fb0e"
+          }
+        },
+        {
+          "client_id": "951276345639-0d4q3f5k28gb9fc5f4egrna2m79s9uit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtGRZvOylX1Ecqg0AmEZS84MEfVXCvk5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951276345639-0d4q3f5k28gb9fc5f4egrna2m79s9uit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
